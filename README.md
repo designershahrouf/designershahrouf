@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @designershahrouf
-- 👀 I’m interested in Designing/Networking
-- 🌱 I’m currently learning Networking / Designing
+- 👋 Hi, I’m @pgdrakib
+- 👀 I’m interested in Designing
+- 🌱 I’m currently learning Designing
 - 💞️ I’m looking to collaborate on Designer
 - 📫 How to reach me ...
 
-- Behance: [DESIGNER SHAHROUF](https://www.behance.net/designershahrouf)
-- Dribble: [DESIGNER SHAHROUF](https://dribbble.com/designerrakib)
-- Website: [DESIGNER SHAHROUF](https://www.designershahrouf.blogspot.com)
-- Facebook: [DESIGNER SHAHROUF](https://www.facebook.com/groups/graphicsdesign71)
-- Twitter: [DESIGNER SHAHROUF](https://www.twitter.com/designershahrouf)
-- Deviantart: [DESIGNER SHAHROUF](https://www.deviantart.com/designershahrouf)
+- Behance: [DESIGNER RAKIB](https://www.behance.net/pgdrakib)
+- Dribble: [DESIGNER RAKIB](https://dribbble.com/pgdrakib)
+- Website: [DESIGNER RAKIB](https://www.pgdrakib.blogspot.com)
+- Facebook: [DESIGNER RAKIB](https://www.facebook.com/groups/graphicsdesign71)
+- Twitter: [DESIGNER RAKIB](https://www.twitter.com/designershahrouf)
+- Deviantart: [DESIGNER RAKIB](https://www.deviantart.com/designershahrouf)
 - Upwork: [My Profile](https://www.upwork.com/o/profiles/users/~0100df4e55e467097e/)
 - Fiverr:
 - Freelancer: 
